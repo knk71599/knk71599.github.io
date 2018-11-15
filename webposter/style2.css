@@ -1,0 +1,184 @@
+.gif{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height:100vh;
+	background-image: url(forest.gif);
+	background-size: cover;
+  	background-repeat: no-repeat;
+ 	background-position: center;
+}
+.header{
+	position: absolute;
+	top: 50vh;
+	left: 13vh;
+	font-family: 'special elite', Helvetica;
+	font-size: 6vw;
+	color: white;
+	background-position: center;
+}
+
+.bg{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 400vh;
+	background-color: black;
+}
+
+.header2{
+	font-family: 'special elite', Helvetica;
+	color: white;
+	position: absolute;
+	top: 105vh;
+	left: 50px;
+
+}
+
+.text1{
+	position: absolute;
+	top: 160vh;
+	left: 50px;
+	color: white;
+	font-family: helvetica;
+	width: 200px;
+	line-height: 25px;
+}
+.text2{
+	position: absolute;
+	top: 160vh;
+	left: 300px;
+	color: white;
+	font-family: helvetica;
+	width: 200px;
+	line-height: 25px;
+
+}
+.pic1{
+	position: absolute;
+	top: 110vh;
+	left: 50px;
+	width: 200px;
+	height: 333px;
+	background-image: url(heather2.jpg);
+}
+.pic2{
+	position: absolute;
+	top: 110vh;
+	left: 300px;
+	width: 200px;
+	height: 333px;
+	background-image: url(josh2.jpg);
+}
+.pic3{
+	position: absolute;
+	top: 110vh;
+	left: 550px;
+	width: 200px;
+	height: 333px;
+	background-image: url(michael2.jpg);
+}
+@media (max-width: 790px){
+	.pic3{
+		top: 160vh;
+		left: 50px;
+	}
+	.text1{
+		left: 300px;
+	}
+	.text2{
+		top: 186vh;
+	}
+}
+@media (max-width: 600px){
+	.header{
+		font-size: 16vw;
+		top: 35vh;
+		left: 5vh;
+		text-align: center;
+	}
+}
+
+@media (max-width: 550px){
+	.pic2{
+		top: 160vh;
+		left: 50px;
+	}
+	.pic3{
+		top: 210vh;
+		left: 50px;
+	}
+	.text1{
+		top: 110vh;
+		left: 300px;
+	}
+	.text2{
+		top: 160vh;
+	}
+}
+@media (max-width: 515px){
+	.header2{
+		left: 25px;
+	}
+	.pic1{
+		left: 25px;
+	}
+	.pic2{
+		left: 25px;
+	}
+	.pic3{
+		left: 25px;
+	}
+	.text1{
+		left: 250px;
+	}
+	.text2{
+		left: 250px;
+	}
+}
+@media (max-width: 455px){
+	.header2{
+		left: 25px;
+	}
+	.pic1{
+		width: 150px;
+		height: 283px;
+		background-position: center
+	}
+	.pic2{
+		top: 153vh;
+		width: 150px;
+		height: 283px;
+		background-position: center
+	}
+	.pic3{
+		top: 196vh;
+		width: 150px;
+		height: 283px;
+		background-position: center
+	}
+	.text1{
+		width: 125px;
+		left: 195px;
+		line-height: 24px;
+	}
+	.text2{
+		width: 125px;
+		left: 195px;
+		line-height: 24px;
+		top: 153vh;
+	}
+}
+@media (max-width: 400px){
+	.header{
+		font-size: 20vw;
+		top: 25vh;
+		left: 5vh;
+		text-align: center;
+	}
+}
+
+
+
