@@ -1,0 +1,520 @@
+.bg{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height:100vh;
+	background-color: rgb(252,218,205);
+	background-size: cover;
+}
+.end{
+	position: absolute;
+	top: 4780px;
+	left: 850px;
+	width: 400px;
+	height: 220px;
+	background-color: rgb(252,218,205);
+}
+.headicon{
+	position: absolute;
+	top: -2px;
+	left: 220px;
+	background-image: url(cloudwebicon.png);
+	width: 850px;
+	height: 586px;
+}
+.arrow{
+	position: absolute;
+	top: 575px;
+	left: 585px;
+	background-image: url(arrow.png);
+	width: 100px;
+	height: 146px;
+}
+.h1{
+	position: absolute;
+	top:820px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(duck.jpg);
+}
+.h2{
+	position: absolute;
+	top:820px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(godangel.jpg);
+}
+.h3{
+	position: absolute;
+	top:820px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(godzilla.jpg);
+}
+.h4{
+	position: absolute;
+	top:820px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(waves2.jpg);
+}
+.h5{
+	position: absolute;
+	top: 1030px;
+	left: 20px;
+	width: 400px;
+	height: 190px;
+	background-image: url(fish2.jpg);
+}
+.h6{
+	position: absolute;
+	top: 1640px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(godzilla2.jpg);
+}
+.h7{
+	position: absolute;
+	top: 1850px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(fish.jpg);
+}
+.h8{
+	position: absolute;
+	top: 2060px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(ufo.jpg);
+}
+.h9{
+	position: absolute;
+	top: 2270px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(shroom.jpg);
+}
+.h10{
+	position: absolute;
+	top: 2890px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(rabbit.jpg);
+}
+.h11{
+	position: absolute;
+	top: 3100px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(eye.jpg);
+}
+.h12{
+	position: absolute;
+	top: 3310px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(arizona.jpg);
+}
+.h13{
+	position: absolute;
+	top: 3520px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(eyes.jpg);
+}
+.h14{
+	position: absolute;
+	top: 3730px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(hurricane.jpg);
+}
+.h15{
+	position: absolute;
+	top: 3940px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(cross.jpg);
+}
+.h16{
+	position: absolute;
+	top: 4150px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(seagull.jpg);
+}
+.h17{
+	position: absolute;
+	top:1030px;
+	left: 850px;
+	width: 400px;
+	height: 190px;
+	background-image: url(jellyfish.jpg);
+}
+.h18{
+	position: absolute;
+	top:1240px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(elephant.jpg);
+}
+.h19{
+	position: absolute;
+	top:1450px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(heart2.jpg);
+}
+.h20{
+	position: absolute;
+	top:2060px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(feather.jpg);
+}
+.h21{
+	position: absolute;
+	top:2270px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(angel4.jpg);
+}
+.h22{
+	position: absolute;
+	top:2480px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(waves.jpg);
+}
+.h23{
+	position: absolute;
+	top:2690px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(elvis2.jpg);
+}
+.h24{
+	position: absolute;
+	top:2900px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(mountain.jpg);
+}
+.h25{
+	position: absolute;
+	top:3110px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(youknow.jpg);
+}
+.h26{
+	position: absolute;
+	top:3730px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(wellumfuck.jpg);
+}
+.h27{
+	position: absolute;
+	top:3940px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(rooster.jpg);
+}
+.h28{
+	position: absolute;
+	top:4150px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(simba.jpg);
+}
+.h29{
+	position: absolute;
+	top:1230px;
+	left: 20px;
+	width: 195px;
+	height: 400px;
+	background-image: url(croissant.jpg);
+}
+.h30{
+	position: absolute;
+	top:1230px;
+	left: 225px;
+	width: 195px;
+	height: 400px;
+	background-image: url(magicnum.jpg);
+}
+.h31{
+	position: absolute;
+	top:1660px;
+	left: 850px;
+	width: 195px;
+	height: 390px;
+	background-image: url(man.jpg);
+}
+.h32{
+	position: absolute;
+	top:1660px;
+	left: 1060px;
+	width: 195px;
+	height: 390px;
+	background-image: url(winnie.jpg);
+}
+.h33{
+	position: absolute;
+	top:1230px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(elvis.jpg);
+}
+.h34{
+	position: absolute;
+	top:1640px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(kitty.jpg);
+}
+.h35{
+	position: absolute;
+	top:2050px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(frenchbull.jpg);
+}
+.h36{
+	position: absolute;
+	top:2460px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(monkey.jpg);
+}
+.h37{
+	position: absolute;
+	top:2870px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(whale.jpg);
+}
+.h38{
+	position: absolute;
+	top:3280px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(ghostbusters.jpg);
+}
+.h39{
+	position: absolute;
+	top:1230px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(horse2.jpg);
+}
+.h40{
+	position: absolute;
+	top: 1640px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(wilson.jpg);
+}
+.h41{
+	position: absolute;
+	top: 2050px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(horse.jpg);
+}
+.h42{
+	position: absolute;
+	top: 2460px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(heart.jpg);
+}
+.h43{
+	position: absolute;
+	top: 2870px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(angel3.jpg);
+}
+.h44{
+	position: absolute;
+	top: 3280px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(horse3.jpg);
+}
+.h45{
+	position: absolute;
+	top: 3690px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(duck2.jpg);
+}
+.h46{
+	position: absolute;
+	top:3690px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(crown.jpg);
+}
+.h47{
+	position: absolute;
+	top: 4100px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(anx.jpg);
+}
+.h48{
+	position: absolute;
+	top: 2480px;
+	left: 20px;
+	width: 195px;
+	height: 400px;
+	background-image: url(angel.jpg);
+}
+.h49{
+	position: absolute;
+	top: 2480px;
+	left: 225px;
+	width: 195px;
+	height: 400px;
+	background-image: url(boom.jpg);
+}
+.h50{
+	position: absolute;
+	top:3320px;
+	left: 850px;
+	width: 195px;
+	height: 400px;
+	background-image: url(angel2.jpg);
+}
+.h51{
+	position: absolute;
+	top: 3320px;
+	left: 1055px;
+	width: 195px;
+	height: 400px;
+	background-image: url(wolf.jpg);
+}
+.h52{
+	position: absolute;
+	top: 4100px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(personwhat.jpg);
+}
+.h53{
+	position: absolute;
+	top: 4360px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(question.jpg);
+}
+.h54{
+	position: absolute;
+	top: 4570px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dragon2.jpg);
+}
+.h55{
+	position: absolute;
+	top:4360px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dolphin.jpg);
+}
+.h56{
+	position: absolute;
+	top: 4570px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dog.jpg);
+}
+.h57{
+	position: absolute;
+	top: 4780px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dragon.jpg);
+}
+.h58{
+	position: absolute;
+	top: 4780px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dolphin2.jpg);
+}
+.h59{
+	position: absolute;
+	top: 4510px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(deathstar.jpg);
+}
+.h60{
+	position: absolute;
+	top: 4510px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(comma.jpg);
+}
+.endhp{
+	position: absolute;
+	top: 4930px;
+	left: 430px;
+	width: 400px;
+	height: 50px;
+}
