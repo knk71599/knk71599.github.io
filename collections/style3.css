@@ -1,0 +1,297 @@
+.bg{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height:100vh;
+	background-color: rgb(252,218,205);
+	background-size: cover;
+}
+.end{
+	position: absolute;
+	top: 4780px;
+	left: 850px;
+	width: 400px;
+	height: 220px;
+	background-color: rgb(252,218,205);
+}
+.header{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1250px;
+	height: 40px;
+	background-color: rgb(59,44,58);
+}
+.HOME{
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	width: 35px;
+	height: 30px;
+	background-image: url(homeicon.png);
+}
+.PERSON{
+	position: absolute;
+	top: 5px;
+	left: 600px;
+	width: 9px;
+	height: 30px;
+	background-image: url(personicon.png);
+}
+.ANIMAL{
+	position: absolute;
+	top: 5px;
+	left: 709px;
+	width: 25px;
+	height: 30px;
+	background-image: url(animalicons.png);
+}
+.OBJECT{
+	position: absolute;
+	top: 5px;
+	left: 834px;
+	width: 32px;
+	height: 30px;
+	background-image: url(objecticon.png);
+}
+.RANDOM{
+	position: absolute;
+	top: 5px;
+	left: 966px;
+	width: 16px;
+	height: 30px;
+	background-image: url(randomicon.png);
+}
+.STORM{
+	position: absolute;
+	top: 5px;
+	left: 1082px;
+	width: 49px;
+	height: 30px;
+	background-image: url(stormicon.png);
+}
+.headicon{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	background-image: url(cloudwebicon2.png);
+	width: 400px;
+	height: 275px;
+}
+.h1{
+	position: absolute;
+	top: 400px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(duck.jpg);
+}
+.h3{
+	position: absolute;
+	top: 400px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(godzilla.jpg);
+}
+.h5{
+	position: absolute;
+	top: 610px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(fish2.jpg);
+}
+.h6{
+	position: absolute;
+	top: 1440px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(godzilla2.jpg);
+}
+.h7{
+	position: absolute;
+	top: 1440px;
+	left: 840px;
+	width: 400px;
+	height: 200px;
+	background-image: url(fish.jpg);
+}
+.h10{
+	position: absolute;
+	top: 1860px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(rabbit.jpg);
+}
+.h16{
+	position: absolute;
+	top: 1840px;
+	left: 430px;
+	width: 400px;
+	height: 200px;
+	background-image: url(seagull.jpg);
+}
+.h17{
+	position: absolute;
+	top: 400px;
+	left: 840px;
+	width: 400px;
+	height: 200px;
+	background-image: url(jellyfish.jpg);
+}
+.h18{
+	position: absolute;
+	top: 610px;
+	left: 840px;
+	width: 400px;
+	height: 200px;
+	background-image: url(elephant.jpg);
+}
+.h27{
+	position: absolute;
+	top: 1630px;
+	left: 430px;
+	width: 400px;
+	height: 200px;
+	background-image: url(rooster.jpg);
+}
+.h28{
+	position: absolute;
+	top:1650px;
+	left: 840px;
+	width: 400px;
+	height: 200px;
+	background-image: url(simba.jpg);
+}
+.h32{
+	position: absolute;
+	top: 810px;
+	left: 640px;
+	width: 190px;
+	height: 400px;
+	background-image: url(winnie.jpg);
+}
+.h34{
+	position: absolute;
+	top:810px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(kitty.jpg);
+}
+.h35{
+	position: absolute;
+	top: 1030px;
+	left: 20px;
+	width: 195px;
+	height: 400px;
+	background-image: url(frenchbull.jpg);
+}
+.h36{
+	position: absolute;
+	top: 1030px;
+	left: 225px;
+	width: 195px;
+	height: 400px;
+	background-image: url(monkey.jpg);
+}
+.h37{
+	position: absolute;
+	top: 1030px;
+	left: 1045px;
+	width: 195px;
+	height: 400px;
+	background-image: url(whale.jpg);
+}
+.h39{
+	position: absolute;
+	top: 400px;
+	left: 640px;
+	width: 190px;
+	height: 400px;
+	background-image: url(horse2.jpg);
+}
+.h41{
+	position: absolute;
+	top: 1030px;
+	left: 840px;
+	width: 195px;
+	height: 400px;
+	background-image: url(horse.jpg);
+}
+.h44{
+	position: absolute;
+	top: 1220px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(horse3.jpg);
+}
+.h45{
+	position: absolute;
+	top: 1860px;
+	left: 840px;
+	width: 200px;
+	height: 400px;
+	background-image: url(duck2.jpg);
+}
+.h51{
+	position: absolute;
+	top: 1220px;
+	left: 640px;
+	width: 190px;
+	height: 400px;
+	background-image: url(wolf.jpg);
+}
+.h54{
+	position: absolute;
+	top: 2050px;
+	left: 430px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dragon2.jpg);
+}
+.h55{
+	position: absolute;
+	top:2070px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dolphin.jpg);
+}
+.h56{
+	position: absolute;
+	top: 820px;
+	left: 840px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dog.jpg);
+}
+.h57{
+	position: absolute;
+	top: 820px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dragon.jpg);
+}
+.h58{
+	position: absolute;
+	top: 1650px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(dolphin2.jpg);
+}
+.end{
+	position: absolute;
+	top: 2090px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-color: rgb(252,218,205);
+}

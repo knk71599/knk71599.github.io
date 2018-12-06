@@ -1,0 +1,189 @@
+.bg{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height:100vh;
+	background-color: rgb(252,218,205);
+	background-size: cover;
+}
+.end{
+	position: absolute;
+	top: 4780px;
+	left: 850px;
+	width: 400px;
+	height: 220px;
+	background-color: rgb(252,218,205);
+}
+.header{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1250px;
+	height: 40px;
+	background-color: rgb(59,44,58);
+}
+.HOME{
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	width: 35px;
+	height: 30px;
+	background-image: url(homeicon.png);
+}
+.PERSON{
+	position: absolute;
+	top: 5px;
+	left: 600px;
+	width: 9px;
+	height: 30px;
+	background-image: url(personicon.png);
+}
+.ANIMAL{
+	position: absolute;
+	top: 5px;
+	left: 709px;
+	width: 25px;
+	height: 30px;
+	background-image: url(animalicon.png);
+}
+.OBJECT{
+	position: absolute;
+	top: 5px;
+	left: 834px;
+	width: 32px;
+	height: 30px;
+	background-image: url(objecticons.png);
+}
+
+.RANDOM{
+	position: absolute;
+	top: 5px;
+	left: 966px;
+	width: 16px;
+	height: 30px;
+	background-image: url(randomicon.png);
+}
+.STORM{
+	position: absolute;
+	top: 5px;
+	left: 1082px;
+	width: 49px;
+	height: 30px;
+	background-image: url(stormicon.png);
+}
+.headicon{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	background-image: url(cloudwebicon2.png);
+	width: 400px;
+	height: 275px;
+}
+.h8{
+	position: absolute;
+	top: 400px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(ufo.jpg);
+}
+.h9{
+	position: absolute;
+	top: 400px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(shroom.jpg);
+}
+.h15{
+	position: absolute;
+	top: 610px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(cross.jpg);
+}
+.h19{
+	position: absolute;
+	top:610px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(heart2.jpg);
+}
+.h20{
+	position: absolute;
+	top: 820px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(feather.jpg);
+}
+.h29{
+	position: absolute;
+	top:810px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(croissant.jpg);
+}
+.h42{
+	position: absolute;
+	top: 810px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(heart.jpg);
+}
+.h46{
+	position: absolute;
+	top:400px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(crown.jpg);
+}
+.h53{
+	position: absolute;
+	top: 820px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(question.jpg);
+}
+.h59{
+	position: absolute;
+	top: 400px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(deathstar.jpg);
+}
+.end{
+	position: absolute;
+	top:830px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-color: rgb(252,218,205);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

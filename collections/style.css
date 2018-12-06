@@ -15,13 +15,69 @@
 	height: 220px;
 	background-color: rgb(252,218,205);
 }
+.header{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1250px;
+	height: 40px;
+	background-color: rgb(59,44,58);
+}
+.HOME{
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	width: 35px;
+	height: 30px;
+	background-image: url(homeicons.png);
+}
+.PERSON{
+	position: absolute;
+	top: 5px;
+	left: 600px;
+	width: 9px;
+	height: 30px;
+	background-image: url(personicon.png);
+}
+.ANIMAL{
+	position: absolute;
+	top: 5px;
+	left: 709px;
+	width: 25px;
+	height: 30px;
+	background-image: url(animalicon.png);
+}
+.OBJECT{
+	position: absolute;
+	top: 5px;
+	left: 834px;
+	width: 32px;
+	height: 30px;
+	background-image: url(objecticon.png);
+}
+.RANDOM{
+	position: absolute;
+	top: 5px;
+	left: 966px;
+	width: 16px;
+	height: 30px;
+	background-image: url(randomicon.png);
+}
+.STORM{
+	position: absolute;
+	top: 5px;
+	left: 1082px;
+	width: 49px;
+	height: 30px;
+	background-image: url(stormicon.png);
+}
 .headicon{
 	position: absolute;
-	top: -2px;
-	left: 220px;
+	top: -20px;
+	left: 20px;
 	background-image: url(cloudwebicon.png);
 	width: 850px;
-	height: 586px;
+	height: 584px;
 }
 .arrow{
 	position: absolute;
@@ -164,7 +220,7 @@
 	top:1030px;
 	left: 850px;
 	width: 400px;
-	height: 190px;
+	height: 200px;
 	background-image: url(jellyfish.jpg);
 }
 .h18{
@@ -282,7 +338,7 @@
 .h32{
 	position: absolute;
 	top:1660px;
-	left: 1060px;
+	left: 1055px;
 	width: 195px;
 	height: 390px;
 	background-image: url(winnie.jpg);
@@ -511,10 +567,14 @@
 	height: 400px;
 	background-image: url(comma.jpg);
 }
+.a1{
+	
+}
 .endhp{
 	position: absolute;
 	top: 4930px;
 	left: 430px;
 	width: 400px;
 	height: 50px;
+	font-family: Montserrat;
 }

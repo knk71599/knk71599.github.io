@@ -1,0 +1,180 @@
+.bg{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height:100vh;
+	background-color: rgb(252,218,205);
+	background-size: cover;
+}
+.end{
+	position: absolute;
+	top: 820px;
+	left: 850px;
+	width: 200px;
+	height: 410px;
+	background-color: rgb(252,218,205);
+}
+.header{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1250px;
+	height: 40px;
+	background-color: rgb(59,44,58);
+}
+.HOME{
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	width: 35px;
+	height: 30px;
+	background-image: url(homeicon.png);
+}
+.PERSON{
+	position: absolute;
+	top: 5px;
+	left: 600px;
+	width: 9px;
+	height: 30px;
+	background-image: url(personicons.png);
+}
+.ANIMAL{
+	position: absolute;
+	top: 5px;
+	left: 709px;
+	width: 25px;
+	height: 30px;
+	background-image: url(animalicon.png);
+}
+.OBJECT{
+	position: absolute;
+	top: 5px;
+	left: 834px;
+	width: 32px;
+	height: 30px;
+	background-image: url(objecticon.png);
+}
+.RANDOM{
+	position: absolute;
+	top: 5px;
+	left: 966px;
+	width: 16px;
+	height: 30px;
+	background-image: url(randomicon.png);
+}
+.STORM{
+	position: absolute;
+	top: 5px;
+	left: 1082px;
+	width: 49px;
+	height: 30px;
+	background-image: url(stormicon.png);
+}
+.headicon{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	background-image: url(cloudwebicon2.png);
+	width: 400px;
+	height: 275px;
+}
+.h2{
+	position: absolute;
+	top:400px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(godangel.jpg);
+}
+.h11{
+	position: absolute;
+	top: 400px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(eye.jpg);
+}
+.h13{
+	position: absolute;
+	top: 610px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(eyes.jpg);
+}
+.h21{
+	position: absolute;
+	top: 400px;
+	left: 850px;
+	width: 400px;
+	height: 200px;
+	background-image: url(angel4.jpg);
+}
+.h23{
+	position: absolute;
+	top: 610px;
+	left: 20px;
+	width: 400px;
+	height: 200px;
+	background-image: url(elvis2.jpg);
+}
+.h31{
+	position: absolute;
+	top: 400px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(man.jpg);
+}
+.h33{
+	position: absolute;
+	top: 820px;
+	left: 20px;
+	width: 195px;
+	height: 390px;
+	background-image: url(elvis.jpg);
+}
+.h43{
+	position: absolute;
+	top: 820px;
+	left: 225px;
+	width: 195px;
+	height: 390px;
+	background-image: url(angel3.jpg);
+}
+.h48{
+	position: absolute;
+	top: 810px;
+	left: 430px;
+	width: 200px;
+	height: 400px;
+	background-image: url(angel.jpg);
+}
+.h50{
+	position: absolute;
+	top: 810px;
+	left: 640px;
+	width: 200px;
+	height: 400px;
+	background-image: url(angel2.jpg);
+}
+.h52{
+	position: absolute;
+	top: 820px;
+	left: 850px;
+	width: 200px;
+	height: 390px;
+	background-image: url(personwhat.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
