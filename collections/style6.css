@@ -1,0 +1,252 @@
+.bg{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height:100vh;
+	background-color: rgb(252,218,205);
+	background-size: cover;
+}
+.end{
+	position: absolute;
+	top: 4780px;
+	left: 850px;
+	width: 400px;
+	height: 220px;
+	background-color: rgb(252,218,205);
+}
+.thestorm{
+	position: absolute;
+	top: 70px;
+	left: 350px;
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgb(59,44,58);
+ 	transition: all 500ms ease-in-out;
+}
+.header{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 40px;
+	background-color: rgb(59,44,58);
+}
+.HOME{
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	width: 35px;
+	height: 30px;
+	background-image: url(homeicon.png);
+}
+.PERSON{
+	position: absolute;
+	top: 5px;
+	left: 600px;
+	width: 9px;
+	height: 30px;
+	background-image: url(personicon.png);
+}
+.ANIMAL{
+	position: absolute;
+	top: 5px;
+	left: 709px;
+	width: 25px;
+	height: 30px;
+	background-image: url(animalicon.png);
+}
+.OBJECT{
+	position: absolute;
+	top: 5px;
+	left: 834px;
+	width: 32px;
+	height: 30px;
+	background-image: url(objecticon.png);
+}
+.RANDOM{
+	position: absolute;
+	top: 5px;
+	left: 966px;
+	width: 16px;
+	height: 30px;
+	background-image: url(randomicon.png);
+}
+.STORM{
+	position: absolute;
+	top: 5px;
+	left: 1082px;
+	width: 49px;
+	height: 30px;
+	background-image: url(stormicons.png);
+}
+.headicon{
+	position: absolute;
+	top: 10px;
+	left: 20px;
+	background-image: url(cloudwebicon.png);
+	width: 850px;
+	height: 584px;
+}
+.box{
+	position: absolute;
+	height: 360px;
+	width: 1100px;
+	top:0px;
+	left:0px;
+	background-color: rgb(252,218,205);
+	opacity: 1;
+
+}
+.w1{
+	position: absolute;
+	top: 200px;
+	left: 200px;
+	background-image: url(water1.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w2{
+	position: absolute;
+	top: 200px;
+	left: 225px;
+	background-image: url(water2.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w3{
+	position: absolute;
+	top: 200px;
+	left: 250px;
+	background-image: url(water3.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w4{
+	position: absolute;
+	top: 200px;
+	left: 275px;
+	background-image: url(water4.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w5{
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	background-image: url(water5.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w6{
+	position: absolute;
+	top: 200px;
+	left: 325px;
+	background-image: url(water6.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w7{
+	position: absolute;
+	top: 200px;
+	left: 350px;
+	background-image: url(water7.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w8{
+	position: absolute;
+	top: 200px;
+	left: 375px;
+	background-image: url(water8.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w9{
+	position: absolute;
+	top: 200px;
+	left: 700px;
+	background-image: url(water9.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w10{
+	position: absolute;
+	top: 200px;
+	left: 725px;
+	background-image: url(water10.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w11{
+	position: absolute;
+	top: 200px;
+	left: 850px;
+	background-image: url(water11.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w12{
+	position: absolute;
+	top: 200px;
+	left: 875px;
+	background-image: url(water12.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w13{
+	position: absolute;
+	top: 200px;
+	left: 900px;
+	background-image: url(water13.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w14{
+	position: absolute;
+	top: 200px;
+	left: 925px;
+	background-image: url(water14.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.w15{
+	position: absolute;
+	top: 200px;
+	left: 950px;
+	background-image: url(water15.png);
+	width: 100px;
+	height: 120px;
+	transition: all 500ms ease-in-out;
+}
+.c1{
+	position: absolute;
+	top: 50px;
+	left: 30px;
+	background-image: url(cloud.png);
+	width: 700px;
+	height: 313px;
+}
+.c2{
+	position: absolute;
+	top: 50px;
+	left: 538px;
+	background-image: url(cloud2.png);
+	width: 700px;
+	height: 313px;
+}

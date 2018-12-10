@@ -7,6 +7,14 @@
 	background-color: rgb(252,218,205);
 	background-size: cover;
 }
+.border{
+	position: absolute;
+	top: 400px;
+	left: 20px;
+	width: 1220px;
+	height: 1870px;
+	background-color: white;
+}
 .end{
 	position: absolute;
 	top: 4780px;
@@ -15,11 +23,20 @@
 	height: 220px;
 	background-color: rgb(252,218,205);
 }
+.title{
+	position: absolute;
+	top: 166px;
+	left: 470px;
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 114px;
+	color: rgb(237,158,138);
+}
 .header{
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	width: 1250px;
+	width: 100vw;
 	height: 40px;
 	background-color: rgb(59,44,58);
 }
@@ -286,6 +303,84 @@
 	width: 400px;
 	height: 200px;
 	background-image: url(dolphin2.jpg);
+}
+.a1{
+	background-image: url(hduck.jpg);
+}
+.a3{
+	background-image: url(hgodzilla.jpg);
+}
+.a5{
+	background-image: url(hfish2.jpg);
+}
+.a6{
+	background-image: url(hgodzilla2.jpg);
+}
+.a7{
+	background-image: url(hfish.jpg);
+}
+.a10{
+	background-image: url(hrabbit.jpg);
+}
+.a16{
+	background-image: url(hseagull.jpg);
+}
+.a17{
+	background-image: url(hjellyfish.jpg);
+}
+.a18{
+	background-image: url(helephant.jpg);
+}
+.a27{
+	background-image: url(hrooster.jpg);
+}
+.a28{
+	background-image: url(hsimba.jpg);
+}
+.a32{
+	background-image: url(hwinnie.jpg);
+}
+.a34{
+	background-image: url(hkitty.jpg);
+}
+.a35{
+	background-image: url(hfrenchbull.jpg);
+}
+.a36{
+	background-image: url(hmonkey.jpg);
+}
+.a37{
+	background-image: url(hwhale.jpg);
+}
+.a39{
+	background-image: url(hhorse2.jpg);
+}
+.a41{
+	background-image: url(hhorse.jpg);
+}
+.a44{
+	background-image: url(hhorse3.jpg);
+}
+.a45{
+	background-image: url(hduck2.jpg);
+}
+.a51{
+	background-image: url(hwolf.jpg);
+}
+.a54{
+	background-image: url(hdragon2.jpg);
+}
+.a55{
+	background-image: url(hdolphin.jpg);
+}
+.a56{
+	background-image: url(hdog.jpg);
+}
+.a57{
+	background-image: url(hdragon.jpg);
+}
+.a58{
+	background-image: url(hdolphin2.jpg);
 }
 .end{
 	position: absolute;

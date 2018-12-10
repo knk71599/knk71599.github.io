@@ -7,6 +7,14 @@
 	background-color: rgb(252,218,205);
 	background-size: cover;
 }
+.border{
+	position: absolute;
+	top: 400px;
+	left: 20px;
+	width: 1230px;
+	height: 810px;
+	background-color: white;
+}
 .end{
 	position: absolute;
 	top: 4780px;
@@ -15,11 +23,20 @@
 	height: 220px;
 	background-color: rgb(252,218,205);
 }
+.title{
+	position: absolute;
+	top: 166px;
+	left: 470px;
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 114px;
+	color: rgb(237,158,138);
+}
 .header{
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	width: 1250px;
+	width: 100vw;
 	height: 40px;
 	background-color: rgb(59,44,58);
 }
@@ -160,6 +177,186 @@
 	height: 400px;
 	background-image: url(deathstar.jpg);
 }
+.a1{
+	background-image: url(hduck.jpg);
+}
+.a2{
+	background-image: url(hgodangel.jpg);
+}
+.a3{
+	background-image: url(hgodzilla.jpg);
+}
+.a4{
+	background-image: url(hwaves2.jpg);
+}
+.a5{
+	background-image: url(hfish2.jpg);
+}
+.a6{
+	background-image: url(hgodzilla2.jpg);
+}
+.a7{
+	background-image: url(hfish.jpg);
+}
+.a8{
+	background-image: url(hufo.jpg);
+}
+.a9{
+	background-image: url(hshroom.jpg);
+}
+.a10{
+	background-image: url(hrabbit.jpg);
+}
+.a11{
+	background-image: url(heye.jpg);
+}
+.a12{
+	background-image: url(harizona.jpg);
+}
+.a13{
+	background-image: url(heyes.jpg);
+}
+.a14{
+	background-image: url(hhurricane.jpg);
+}
+.a15{
+	background-image: url(hcross.jpg);
+}
+.a16{
+	background-image: url(hseagull.jpg);
+}
+.a17{
+	background-image: url(hjellyfish.jpg);
+}
+.a18{
+	background-image: url(helephant.jpg);
+}
+.a19{
+	background-image: url(hheart2.jpg);
+}
+.a20{
+	background-image: url(hfeather.jpg);
+}
+.a21{
+	background-image: url(hangel4.jpg);
+}
+.a22{
+	background-image: url(hwaves.jpg);
+}
+.a23{
+	background-image: url(helvis2.jpg);
+}
+.a24{
+	background-image: url(hmountain.jpg);
+}
+.a25{
+	background-image: url(hyouknow.jpg);
+}
+.a26{
+	background-image: url(hwellumfuck.jpg);
+}
+.a27{
+	background-image: url(hrooster.jpg);
+}
+.a28{
+	background-image: url(hsimba.jpg);
+}
+.a29{
+	background-image: url(hcroissant.jpg);
+}
+.a30{
+	background-image: url(hmagicnum.jpg);
+}
+.a31{
+	background-image: url(hman.jpg);
+}
+.a32{
+	background-image: url(hwinnie.jpg);
+}
+.a33{
+	background-image: url(helvis.jpg);
+}
+.a34{
+	background-image: url(hkitty.jpg);
+}
+.a35{
+	background-image: url(hfrenchbull.jpg);
+}
+.a36{
+	background-image: url(hmonkey.jpg);
+}
+.a37{
+	background-image: url(hwhale.jpg);
+}
+.a38{
+	background-image: url(hghostbusters.jpg);
+}
+.a39{
+	background-image: url(hhorse2.jpg);
+}
+.a40{
+	background-image: url(hwilson.jpg);
+}
+.a41{
+	background-image: url(hhorse.jpg);
+}
+.a42{
+	background-image: url(hheart.jpg);
+}
+.a43{
+	background-image: url(hangel3.jpg);
+}
+.a44{
+	background-image: url(hhorse3.jpg);
+}
+.a45{
+	background-image: url(hduck2.jpg);
+}
+.a46{
+	background-image: url(hcrown.jpg);
+}
+.a47{
+	background-image: url(hanx.jpg);
+}
+.a48{
+	background-image: url(hangel.jpg);
+}
+.a49{
+	background-image: url(hboom.jpg);
+}
+.a50{
+	background-image: url(hangel2.jpg);
+}
+.a51{
+	background-image: url(hwolf.jpg);
+}
+.a52{
+	background-image: url(hmanwhat.jpg);
+}
+.a53{
+	background-image: url(hquestion.jpg);
+}
+.a54{
+	background-image: url(hdragon2.jpg);
+}
+.a55{
+	background-image: url(hdolphin.jpg);
+}
+.a56{
+	background-image: url(hdog.jpg);
+}
+.a57{
+	background-image: url(hdragon.jpg);
+}
+.a58{
+	background-image: url(hdolphin2.jpg);
+}
+.a59{
+	background-image: url(hdeathstar.jpg);
+}
+.a60{
+	background-image: url(hcomma.jpg);
+}
 .end{
 	position: absolute;
 	top:830px;
@@ -168,22 +365,3 @@
 	height: 400px;
 	background-color: rgb(252,218,205);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

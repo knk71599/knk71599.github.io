@@ -1,0 +1,37 @@
+$(document).ready(function(){
+	console.log("hiyaaa.");
+
+	$(".h2").hover(function(){
+		$(".h2").toggleClass("a2");
+	})
+	$(".h11").hover(function(){
+		$(".h11").toggleClass("a11");
+	})
+	$(".h13").hover(function(){
+		$(".h13").toggleClass("a13");
+	})
+	$(".h21").hover(function(){
+		$(".h21").toggleClass("a21");
+	})
+	$(".h23").hover(function(){
+		$(".h23").toggleClass("a23");
+	})
+	$(".h31").hover(function(){
+		$(".h31").toggleClass("a31");
+	})
+	$(".h33").hover(function(){
+		$(".h33").toggleClass("a33");
+	})
+	$(".h43").hover(function(){
+		$(".h43").toggleClass("a43");
+	})
+	$(".h48").hover(function(){
+		$(".h48").toggleClass("a48");
+	})
+	$(".h50").hover(function(){
+		$(".h50").toggleClass("a50");
+	})
+	$(".h52").hover(function(){
+		$(".h52").toggleClass("a52");
+	})
+})

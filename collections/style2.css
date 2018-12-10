@@ -7,6 +7,14 @@
 	background-color: rgb(252,218,205);
 	background-size: cover;
 }
+.border{
+	position: absolute;
+	top: 400px;
+	left: 20px;
+	width: 1230px;
+	height: 810px;
+	background-color: white;
+}
 .end{
 	position: absolute;
 	top: 820px;
@@ -15,11 +23,20 @@
 	height: 410px;
 	background-color: rgb(252,218,205);
 }
+.title{
+	position: absolute;
+	top: 166px;
+	left: 470px;
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 114px;
+	color: rgb(237,158,138);
+}
 .header{
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	width: 1250px;
+	width: 100vw;
 	height: 40px;
 	background-color: rgb(59,44,58);
 }
@@ -167,8 +184,39 @@
 	height: 390px;
 	background-image: url(personwhat.jpg);
 }
-
-
+.a2{
+	background-image: url(hgodangel.jpg);
+}
+.a11{
+	background-image: url(heye.jpg);
+}
+.a13{
+	background-image: url(heyes.jpg);
+}
+.a21{
+	background-image: url(hangel4.jpg);
+}
+.a23{
+	background-image: url(helvis2.jpg);
+}
+.a31{
+	background-image: url(hman.jpg);
+}
+.a33{
+	background-image: url(helvis.jpg);
+}
+.a43{
+	background-image: url(hangel3.jpg);
+}
+.a48{
+	background-image: url(hangel.jpg);
+}
+.a50{
+	background-image: url(hangel2.jpg);
+}
+.a52{
+	background-image: url(hmanwhat.jpg);
+}
 
 
 
