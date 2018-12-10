@@ -7,24 +7,6 @@
 	background-color: rgb(252,218,205);
 	background-size: cover;
 }
-.end{
-	position: absolute;
-	top: 4780px;
-	left: 850px;
-	width: 400px;
-	height: 220px;
-	background-color: rgb(252,218,205);
-}
-.thestorm{
-	position: absolute;
-	top: 70px;
-	left: 350px;
-	font-family: Montserrat;
-	font-weight: bold;
-	font-size: 100px;
-	color: rgb(59,44,58);
- 	transition: all 500ms ease-in-out;
-}
 .header{
 	position: absolute;
 	top: 0px;
@@ -81,6 +63,25 @@
 	height: 30px;
 	background-image: url(stormicons.png);
 }
+.end{
+	position: absolute;
+	top: 4780px;
+	left: 850px;
+	width: 400px;
+	height: 220px;
+	background-color: rgb(252,218,205);
+}
+.thestorm{
+	position: absolute;
+	top: 70px;
+	left: 350px;
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgb(59,44,58);
+ 	transition: all 500ms ease-in-out;
+}
+
 .headicon{
 	position: absolute;
 	top: 10px;
