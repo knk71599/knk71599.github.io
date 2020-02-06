@@ -1,43 +1,278 @@
 body{
 	background-color: white;
 }
+.box1{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 375px;
+	height: 100px;
+	background-color: black;
+}
+.black1{
+	width:100%;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -20px;
+}
+.box2{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 375px;
+	height: 200px;
+	background-color: black;
+}
+.black2{
+	width:100%;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+.box3{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 375px;
+	height: 220px;
+	background-color: black;
+}
+.black3{
+	width:100%;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+}
+.box4{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 375px;
+	height: 150px;
+	background-color: black;
+}
+.black4{
+	width:100%;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -15px;
+}
+.box5{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 375px;
+	height: 190px;
+	background-color: black;
+}
+.black5{
+	width:100%;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+}
+.home{
+	position: absolute;
+	left: 2px;
+	top: 2px;
+	width: 40px;
+}
+.icon1{
+	position: absolute;
+	left: 153px;
+	top: 2px;
+	width: 40px;
+}
+.icon2{
+	position: absolute;
+	left: 202px;
+	top: 2px;
+	width: 40px;
+}
+.icon3{
+	position: absolute;
+	left: 248px;
+	top: 2px;
+	width: 40px;
+}
+.icon4{
+	position: absolute;
+	left: 288px;
+	top: 2px;
+	width: 40px;
+}
+.icon5{
+	position: absolute;
+	left: 333px;
+	top: 2px;
+	width: 40px;
+}
 h1{
-	color: black;
 	font-family: 'Megrim', cursive;
-	left: 20px;
+	margin-left: 35px;
+	margin-top: 50px;
+	max-width: 340px;
+	color: white;
 }
 
 h2{
-	color: black;
+	color: white;
 	font-family: Arial Narrow;
-	left: 20px;
+	margin-left: 35px;
 }
 
 h3{
 	color: black;
 	font-family: Arial Narrow;
-	left: 20px;
 }
 
 h4{
+	color: white;
+	font-family: Arial Narrow;
+}
+h5{
+	margin-top: -50px;
+	margin-left: 35px;
+	max-width: 500px;
 	color: black;
 	font-family: Arial Narrow;
-	left: 20px;
+	font-size: 20px;
 }
 
 p{
 	color: black;
 	font-family: Arial Narrow;
-	top:100px;
-	width: 75vw;
 	font-size: 20px;
+	max-width: 500px;
+	margin-left: 20px;
+	margin-right: ;
+}
+body{
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
 }
 .pic{
-	width: 100vw
+	width:100%;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
 }
-a{
-	width: 10vw;
+.a1r{
+	position: absolute;
+	top: 56px;
+	left: 3px;
+	max-width: 340px;
 }
-
-
-
+.a2l{
+	position: absolute;
+	top: 56px;
+	left: 343px;
+	max-width: 340px;
+}
+.h11{
+	position: absolute;
+	left: 35px;
+	top: 70px;
+	max-width: 340px;
+}
+.h12{
+	position: absolute;
+	left: 140px;
+	top: 70px;
+	max-width: 340px;
+}
+.line1{
+	position: absolute;
+	left: 128px;
+	top: 90px;
+	width: 2px;
+	height: 20px;
+	background-color: white;
+}
+.h21{
+	position: absolute;
+	left: 35px;
+	top: 145px;
+	max-width: 340px;
+}
+.h22{
+	position: absolute;
+	left: 148px;
+	top: 145px;
+	max-width: 340px;
+}
+.line2{
+	position: absolute;
+	left: 136px;
+	top: 165px;
+	width: 2px;
+	height: 20px;
+	background-color: white;
+}
+.h31{
+	position: absolute;
+	left: 35px;
+	top: 183px;
+	max-width: 340px;
+}
+.h32{
+	position: absolute;
+	left: 160px;
+	top: 183px;
+	max-width: 340px;
+}
+.line3{
+	position: absolute;
+	left: 148px;
+	top: 203px;
+	width: 2px;
+	height: 20px;
+	background-color: white;
+}
+.h41{
+	position: absolute;
+	left: 35px;
+	top: 110px;
+	max-width: 340px;
+}
+.h42{
+	position: absolute;
+	left: 160px;
+	top: 110px;
+	max-width: 340px;
+}
+.line4{
+	position: absolute;
+	left: 145px;
+	top: 130px;
+	width: 2px;
+	height: 20px;
+	background-color: white;
+}
+.h51{
+	position: absolute;
+	left: 35px;
+	top: 145px;
+	max-width: 340px;
+}
+.h52{
+	position: absolute;
+	left: 155px;
+	top: 145px;
+	max-width: 340px;
+}
+.line5{
+	position: absolute;
+	left: 143px;
+	top: 166px;
+	width: 2px;
+	height: 20px;
+	background-color: white;
+}
