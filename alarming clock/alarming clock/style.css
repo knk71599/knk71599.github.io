@@ -1,0 +1,77 @@
+.bg{
+	position: absolute;
+	  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #212033;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  z-index: -1;
+}
+.light{
+	position: absolute;
+	background-image: url("light-g.svg");
+	width: 100vw;
+	height: 400px;
+	top: 0px;
+	left: 0px;
+	 animation-name: lightA;
+	 animation-duration: 1s;
+	 animation-iteration-count: infinite;
+ 	 animation-timing-function: ease-out;
+}
+
+@keyframes lightA{
+  0% {
+    clip: rect(0px, 0px, 250px, 0px);
+  }
+  100% {
+    clip: rect(0px, 100vw, 250px, 0px);
+  }
+}
+
+.med{
+	position: absolute;
+	background-image: url("med-g.svg");
+	width: 100vw;
+	height: 400px;
+	top: 80px;
+	left: 0px;
+	animation-name: medA;
+	 animation-duration: 5s;
+	 animation-iteration-count: infinite;
+ 	 animation-timing-function: ease-in-out;
+}
+
+@keyframes medA{
+  0% {
+    clip: rect(50px, 0px, 350px, 0px);
+  }
+  100% {
+    clip: rect(50px, 100vw, 350px, 0px);
+  }
+}
+
+.dark{
+	position: absolute;
+	background-image: url("dark-g.svg");
+	width: 100vw;
+	height: 400px;
+	top: 200px;
+	left: 0px;
+	animation-name: darkA;
+	 animation-duration: 15s;
+	 animation-iteration-count: infinite;
+ 	 animation-timing-function: ease-in-out;
+}
+
+@keyframes darkA{
+  0% {
+    clip: rect(50px, 0px, 450px, 0px);
+  }
+  100% {
+    clip: rect(50px, 100vw, 450px, 0px);
+  }
+}
