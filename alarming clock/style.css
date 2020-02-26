@@ -18,9 +18,10 @@
 	top: 0px;
 	left: 0px;
 	 animation-name: lightA;
-	 animation-duration: 1s;
+	 animation-duration: 3.5s;
 	 animation-iteration-count: infinite;
  	 animation-timing-function: ease-out;
+ 	 opacity: 100%;
 }
 
 @keyframes lightA{
@@ -43,6 +44,7 @@
 	 animation-duration: 5s;
 	 animation-iteration-count: infinite;
  	 animation-timing-function: ease-in-out;
+ 	 opacity: 100%;
 }
 
 @keyframes medA{
@@ -65,6 +67,7 @@
 	 animation-duration: 15s;
 	 animation-iteration-count: infinite;
  	 animation-timing-function: ease-in-out;
+ 	 opacity: 100%;
 }
 
 @keyframes darkA{
@@ -74,4 +77,43 @@
   100% {
     clip: rect(50px, 100vw, 450px, 0px);
   }
+}
+
+.noopacity{
+	opacity: 0;
+}
+
+.mountain{
+	position: absolute;
+	background-image: url("mountain.png");
+	width: 100vw;
+	height: 400px;
+	bottom: 0px;
+	left: 0px;
+	z-index: 1;
+}
+.mountain2{
+	position: absolute;
+	background-image: url(mountain2.png);
+	width: 100vw;
+	height: 400px;
+	bottom: 0px;
+	left: 0px;
+	z-index: 1;
+}
+.moon{
+  position: absolute;
+   bottom: 0px;
+  left: 850px;
+  width: 300px;
+  height: 300px;
+  background-image: url("moon.png");
+  
+  
+}
+
+
+.moon.alarm {
+  bottom: 400px;
+  left: 600px;
 }
