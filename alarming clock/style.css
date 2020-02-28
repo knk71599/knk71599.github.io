@@ -79,8 +79,73 @@
   }
 }
 
-.noopacity{
-	opacity: 0;
+.blinking1{
+	animation-name: blinkone;
+	 animation-duration: 2s;
+	 animation-iteration-count: infinite;
+ 	 animation-timing-function: ease-in-out;
+}
+
+@keyframes blinkone{
+  0% {
+    opacity: 1;
+  }
+  25%{
+  	opacity: 0;
+  }
+  50%{
+  	opacity: 1;
+  }
+  75%{
+  	opacity: 0
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.blinking2{
+	animation-name: blinktwo;
+	 animation-duration: 3s;
+	 animation-iteration-count: infinite;
+ 	 animation-timing-function: ease-in-out;
+}
+
+@keyframes blinktwo{
+  0% {
+    opacity: 1;
+  }
+  50%{
+  	opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.blinking3{
+	animation-name: blinkthree;
+	 animation-duration: 5s;
+	 animation-iteration-count: infinite;
+ 	 animation-timing-function: ease-in-out;
+}
+
+@keyframes blinkthree{
+  0% {
+    opacity: 0;
+  }
+  25%{
+  	opacity: 1;
+  }
+  50%{
+  	opacity: 0;
+  }
+  75%{
+  	opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
 }
 
 .mountain{
