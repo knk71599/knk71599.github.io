@@ -81,7 +81,7 @@
 
 .blinking1{
 	animation-name: blinkone;
-	 animation-duration: 2s;
+	 animation-duration: 3s;
 	 animation-iteration-count: infinite;
  	 animation-timing-function: ease-in-out;
 }
@@ -89,16 +89,10 @@
 @keyframes blinkone{
   0% {
     opacity: 1;
-  }
-  25%{
-  	opacity: 0;
-  }
+	}
   50%{
-  	opacity: 1;
-  }
-  75%{
-  	opacity: 0
-  }
+  	opacity: 0;
+ 	}
   100% {
     opacity: 1;
   }
@@ -125,27 +119,20 @@
 
 .blinking3{
 	animation-name: blinkthree;
-	 animation-duration: 5s;
+	 animation-duration: 3s;
 	 animation-iteration-count: infinite;
  	 animation-timing-function: ease-in-out;
 }
 
 @keyframes blinkthree{
-  0% {
-    opacity: 0;
-  }
-  25%{
-  	opacity: 1;
+   0% {
+    opacity: 1;
   }
   50%{
   	opacity: 0;
   }
-  75%{
-  	opacity: 1;
-  }
   100% {
-    opacity: 0;
-  }
+    opacity: 1;
 }
 
 .mountain{
@@ -173,12 +160,21 @@
   width: 300px;
   height: 300px;
   background-image: url("moon.png");
-  
-  
 }
+.alarm {
+  animation-name: alarming;
+   animation-duration: 3s;
+   animation-iteration-count: 1;
+   animation-timing-function: ease-in-out;
+}
+@keyframes alarming{
+   0% {
+     bottom: 0px;
+  left: 850px;
+  }
 
-
-.moon.alarm {
-  bottom: 400px;
+  100% {
+    bottom: 400px;
   left: 600px;
+  }
 }
