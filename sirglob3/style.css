@@ -125,7 +125,7 @@ body {
 }
 
 .npc.was-interacted {
-  opacity: 0;
+  background-image: url("./img/npc-was-interacted.png");
   transition: opacity 400ms linear;
 }
 
