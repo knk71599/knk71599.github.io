@@ -47,7 +47,7 @@ body {
   height: 40px;
   line-height: 40px;
   border-radius: 50%;
-  background-color: rgb(243, 128, 25);
+  background-color: rgb(133, 223, 44);
   color: white;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
@@ -99,7 +99,7 @@ body {
 .hero.jumping {
   background-image: url("./img/jumping-sprite.png");
   animation-name: spriteSheet;
-  animation-duration: 925ms;
+  animation-duration: 610ms;
   animation-timing-function: steps(5); /* number of frames in sprite (not counting the final blank space) */
 }
 
@@ -107,7 +107,7 @@ body {
   background-image: url("./img/action-sprite.png");
   animation-name: spriteSheet;
   animation-duration: 500ms;  /* set to same number in initialize() as well or it will look weird */
-  animation-timing-function: steps(5); /* number of frames in sprite (not counting the final blank space) */
+  animation-timing-function: steps(7); /* number of frames in sprite (not counting the final blank space) */
 }
 
 .npc {
